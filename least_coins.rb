@@ -1,5 +1,6 @@
 #write out your code here
-coins = ["quarters" => 25 , "dimes" => 10, "nickels" => 5, "pennies" => 1]
+coins = ["quarters" , "dimes", "nickels", "pennies"]
+worth = ["25", "10", "5", "1"]
 
 def least_coins (coins)
 
