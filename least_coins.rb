@@ -1,5 +1,5 @@
 #write out your code here
-coins = {
+coins = []
 def least_coins(cents)
 
 #Code your answer here!
